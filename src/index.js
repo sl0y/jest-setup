@@ -8,7 +8,7 @@ const setup = {
 
     toBeFun,
 
-    toMapExact,
+    toMapExact, toMap:       toMapExact,
     toMapEqual, toMapEquals: toMapEqual,
     toMapEquRe:              toMapEqRe, toMapEquivalentRe: toMapEqRe, toMapEqRe,
 

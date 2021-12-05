@@ -1,6 +1,6 @@
 {
   "name": "@sloy/jest-setup",
-  "version": "0.0.0+4",
+  "version": "0.0.1+5",
   "description": "helpers for jest.setup.js",
   "type": "module",
   "main": "./src/index.js",
