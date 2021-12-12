@@ -1,3 +1,5 @@
+![](icon.png)
+
 # JEST SETUP
 
 ```js
