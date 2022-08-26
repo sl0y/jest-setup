@@ -1,4 +1,4 @@
-import messageMap from '../util/message-map.fn.js';
+import messageMap from './map.messager.js';
 
 
 const toMapEqRe = (
@@ -24,4 +24,5 @@ const toMapEqRe = (
 );
 
 
+// noinspection JSUnusedGlobalSymbols
 export default toMapEqRe;

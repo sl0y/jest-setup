@@ -1,4 +1,4 @@
-// message shown when negative scenario fails
+// message shown if negative scenario fails
 const neg = (
     message => ({pass: true, message: () => message})
 );

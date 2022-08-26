@@ -1,4 +1,4 @@
-import messageMap from '../util/message-map.fn.js';
+import messageMap from './map.messager.js';
 
 
 const toMapExact = (
@@ -22,4 +22,5 @@ const toMapExact = (
 );
 
 
+// noinspection JSUnusedGlobalSymbols
 export default toMapExact;

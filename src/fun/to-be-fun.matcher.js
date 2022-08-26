@@ -1,4 +1,4 @@
-import messageFun from '../util/message-fun.fn.js';
+import messageFun from './fun.messager.js';
 
 
 const toBeFun = (
@@ -18,4 +18,5 @@ const toBeFun = (
 );
 
 
+// noinspection JSUnusedGlobalSymbols
 export default toBeFun;

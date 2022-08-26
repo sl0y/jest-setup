@@ -1,5 +1,5 @@
-import neg from './neg.fn.js';
-import pos from './pos.fn.js';
+import neg from '../util/neg.fn.js';
+import pos from '../util/pos.fn.js';
 
 
 const messageFun = (
